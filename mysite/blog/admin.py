@@ -1,10 +1,10 @@
 from django.contrib import admin
 from .models import Post
-from .models import Voetbalspelers
+#from .models import Voetbalspelers
 
 
 admin.site.register(Post)
 
-admin.site.register(Voetbalspelers)
+#admin.site.register(Voetbalspelers)
 
 # Register your models here.

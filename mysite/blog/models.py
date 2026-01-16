@@ -20,6 +20,7 @@ def __str__(self):
     return self.title
 
 
+"""
 class Voetbalspelers(models.Model):
     author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     name_player = models.CharField(max_length=50)
@@ -31,5 +32,5 @@ def publish(self):
     self.published_data = timezone.now()
     self.save()
 
-
+"""
 # Create your models here.
