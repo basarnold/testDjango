@@ -9,7 +9,6 @@ body{
 header{
        top:0px;
        left:0px;
-       font-size:16px;
        font-size:18px;
        color:black;
        margin-top:-8px;
@@ -23,18 +22,13 @@ header{
 }
 
 article{
-    
-    
-    
-    
-    height:110px;
-    width: 300px;
-    margin-left:700px;
-    background-color:rgb(248, 179, 150);
-    margin-top:0px;
-    border: 2px solid white;
-    padding:5px;
-    font-size: 9px;
+        height:110px;
+        width: 300px;
+        margin-left:700px;
+        background-color:rgb(248, 179, 150);
+        border: 2px solid white;
+        padding:5px;
+        font-size: 9px;
 }
 
 footer{
@@ -46,8 +40,8 @@ footer{
        background-color: #FFA500;
        margin-top:25px;
        margin-bottom:-9px;
-       
 }
 
-h2 a{color:hsl(39, 91%, 50%);
+h2 a {color:hsl(39, 91%, 50%);
+
 }
