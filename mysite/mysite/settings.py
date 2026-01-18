@@ -104,7 +104,8 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 # Hieronder bepaalt u de taal van uw applicatie
-#Hier een regel als test
+# Hier een regel als test
+# Nog een regel testcode
 
 LANGUAGE_CODE = 'nl-nl'
 
