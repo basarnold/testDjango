@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
+    'polls',
 ]
 
 MIDDLEWARE = [
@@ -105,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 # Hieronder bepaalt u de taal van uw applicatie
 # Hier een regel als test
-# Nog een regel testcode
+# Nog een regel
 
 LANGUAGE_CODE = 'nl-nl'
 
